@@ -1,0 +1,9 @@
+5
+_ _ _ _ _ _ _ _ _ _ _ _ _
+_ A D D D B B B D D D A _
+_ A E F Z Z G Z Z F E A _
+_ A E F Z A D A Z F E A _
+_ A E F Z Z G Z Z F E A _
+G A D D D B B B D D D A G
+_ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _

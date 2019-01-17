@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"controller"},{"l":"main"},{"l":"model"},{"l":"model.bonus"},{"l":"model.brick"},{"l":"server"},{"l":"util"},{"l":"view"}]

@@ -1,0 +1,9 @@
+7
+_ _ _ _ _ _ _ _ _ _ _ _
+_ A A A A A A A A A A _
+_ A B B B B B B B B A _
+_ A B C C E E D D B A _
+_ A B C C E E D D B A _
+_ A B B B B B B B B A _
+_ A A A A A A A A A A _
+

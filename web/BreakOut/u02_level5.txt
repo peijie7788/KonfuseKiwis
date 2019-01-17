@@ -1,0 +1,9 @@
+6
+D E F A B B B B A F E D
+D E F A B C C B A F E D
+D E F A B C C B A F E D
+D E F A B C C B A F E D
+D E F A B C C B A F E D
+Z E F A B C C B A F E Z
+Z Z Z A B G G B A Z Z Z
+
